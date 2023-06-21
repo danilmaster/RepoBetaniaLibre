@@ -1,0 +1,23 @@
+.testimonios {
+    margin-bottom: 20px;
+  }
+  
+  .testimonios h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .testimonios p {
+    margin-bottom: 10px;
+  }
+  
+  .testimonios ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .testimonios li {
+    margin-bottom: 5px;
+  }
+  
+  

@@ -1,0 +1,17 @@
+.redes-sociales {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.redes-sociales a {
+  text-decoration: none;
+  color: #333;
+  margin-right: 10px;
+  transition: transform 0.3s;
+}
+
+.redes-sociales a:hover {
+  transform: scale(1.1); /* Ajusta el valor según el nivel de zoom deseado */
+}
